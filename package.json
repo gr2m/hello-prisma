@@ -15,6 +15,7 @@
   "scripts": {
     "list-users": "ts-node-esm list-users.ts",
     "add-user": "ts-node-esm add-user.ts",
-    "publish-post": "ts-node-esm publish-post.ts"
+    "publish-post": "ts-node-esm publish-post.ts",
+    "prisma-studio": "prisma studio"
   }
 }
