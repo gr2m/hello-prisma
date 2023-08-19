@@ -13,6 +13,7 @@
     "@prisma/client": "^5.1.1"
   },
   "scripts": {
-    "list-users": "ts-node-esm list-users.ts"
+    "list-users": "ts-node-esm list-users.ts",
+    "add-user": "ts-node-esm add-user.ts"
   }
 }
