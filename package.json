@@ -14,6 +14,7 @@
   },
   "scripts": {
     "list-users": "ts-node-esm list-users.ts",
-    "add-user": "ts-node-esm add-user.ts"
+    "add-user": "ts-node-esm add-user.ts",
+    "publish-post": "ts-node-esm publish-post.ts"
   }
 }
